@@ -7,3 +7,5 @@ application.debug = false
 window.Stimulus   = application
 
 export { application }
+
+// app/assets/javascripts/application.js
